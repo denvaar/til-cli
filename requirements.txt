@@ -1,6 +1,11 @@
+altgraph==0.14
 certifi==2017.11.5
 chardet==3.0.4
+future==0.16.0
 idna==2.6
+macholib==1.8
+pefile==2017.11.5
+PyInstaller==3.3
 requests==2.18.4
 termcolor==1.1.0
 urllib3==1.22
